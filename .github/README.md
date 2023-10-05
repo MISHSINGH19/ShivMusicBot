@@ -1,8 +1,8 @@
 <img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# 𝐒𝐡𝐢𝐯 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[𝐒𝐇𝐈𝐕 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓](https://github.com/MISHSINGH19/ShivMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -10,7 +10,7 @@
 * Multi-Language support
 
 
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
+# ⚡️ Getting Started [[Documentation]()]
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
@@ -36,7 +36,7 @@ Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [Telegram Support](https://t.me/HINDI_FRIENDS_CHATTING_ROOM)
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
@@ -44,7 +44,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make **YukkiMusicBot** better!
+Together, we can make **𝐒𝐡𝐢𝐯MusicBot** better!
 # 📑 Acknowledgement / Credits
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
